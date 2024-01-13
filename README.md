@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @dumasg
+# 👋 Hi, I’m Gérémy DUMAS
 ### I'm a student in administrator system DevOps
 
 In my github depot you will found my personnal projects on this langages
